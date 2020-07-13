@@ -1,4 +1,6 @@
-Pixelbot made for educational purposes. It gives you maximum lvl 5 award 95% times. 
+Pixelbot made for educational purposes to simple minigame where you need to cut logs on your right and left side and it speeds up.
+
+It gives you maximum lvl 5 award 95% times. 
 
 It doesn't check if the mini-game is on/off so you have to start/stop it manually. You have to also get reward and start new game. 
 
