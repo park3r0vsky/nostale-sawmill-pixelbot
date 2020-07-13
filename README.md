@@ -4,4 +4,4 @@ It doesn't check if the mini-game is on/off so you have to start/stop it manuall
 
 You need to change resolution of the game to 1024x764 to make use of it.
 
-![Imgur](https://imgur.com/EqNSBRY)
+![screen](https://i.imgur.com/EqNSBRY.png)
